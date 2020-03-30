@@ -1,1 +1,1 @@
-# COVID-19-Imaging-Primer
+# COVID-19-Radiology-Primer
